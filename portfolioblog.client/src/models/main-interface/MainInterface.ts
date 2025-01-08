@@ -1,9 +1,9 @@
 import MainFunc from "../../func/main-func";
-import { WindowDisplay } from "../window-display/window-display";
+import { WindowDisplayEnum } from "../window-display/window-display-emum";
 
 export interface MainInterface {
     user: string;
-    windowDisplayEnumValue: WindowDisplay;
+    windowDisplayEnumValue: WindowDisplayEnum;
 
     mainFuncHandler?: ReturnType<typeof MainFunc>
 }

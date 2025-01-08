@@ -5,13 +5,14 @@ import { MainInterface } from './models/main-interface/MainInterface';
 import MainFunc from './func/main-func';
 import { deepClone } from './utility/deepClone';
 import NavBarTop from './components/navbar/NavBarTop';
-import { WindowDisplay } from './models/window-display/window-display';
+import { WindowDisplayEnum } from './models/window-display/window-display-emum';
+import MainWindowDisplayComponent from './components/main-window/MainWindowDisplayComponent';
 
 function App() {
 
     const [mainInterface, setMainInterface] = useState<MainInterface>({
         user: "Daniel Bae",
-        windowDisplayEnumValue: WindowDisplay.homepage
+        windowDisplayEnumValue: WindowDisplayEnum.homepage
     });
 
     useEffect(() => {
@@ -24,8 +25,10 @@ function App() {
 
     return (
         <div>
-            <NavBarTop />
-            <p>{baseUrl}</p>
+            <NavBarTop mainInterface={mainInterface} setMainInterface={setMainInterface} />
+
+            <MainWindowDisplayComponent mainInterface={mainInterface} setMainInterface={setMainInterface} />
+
         </div>
     );
 
