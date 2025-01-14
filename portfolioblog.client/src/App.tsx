@@ -18,7 +18,12 @@ function App() {
             textFormInputString: ''
         },
         articleObject: {
-            articles: []
+            articles: [],
+            singleArticle: null
+        },
+        playlistObject: {
+            playlists: [],
+            singlePlaylist: null
         }
 
     });

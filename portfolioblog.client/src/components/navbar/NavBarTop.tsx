@@ -2,6 +2,7 @@ import * as React from 'react';
 import { MainInterface } from '../../models/main-interface/MainInterface';
 import WYSIWYGButton from './buttons/WYSIWYGButton';
 import ArticleHomepageButton from './buttons/ArticleHomepageButton';
+import MusicPlaylistsButton from './buttons/MusicPlaylistsButton';
 
 const NavBarTop = ({ mainInterface, setMainInterface }:
     { mainInterface: MainInterface, setMainInterface: React.Dispatch<React.SetStateAction<MainInterface>> }) => {
@@ -10,6 +11,7 @@ const NavBarTop = ({ mainInterface, setMainInterface }:
             className="d-flex flex-row align-items-center justify-content-between">
             <div></div>
             <div>
+                <MusicPlaylistsButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
                 <ArticleHomepageButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
                 <WYSIWYGButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
             </div>

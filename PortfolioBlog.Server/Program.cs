@@ -21,6 +21,8 @@ namespace PortfolioBlog.Server
             // Register services (example)
             builder.Services.AddScoped<IBlogArticleService, BlogArticleService>();
 
+            builder.Services.AddScoped<IPlaylistService, PlaylistService>();
+
             builder.Services.AddControllers();
 
             // Add CORS configuration

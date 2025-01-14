@@ -6,7 +6,7 @@ using PortfolioBlog.Server.Models.Blog.Articles;
 namespace PortfolioBlog.Server.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class PlaylistController : Controller
     {
         private readonly IPlaylistService _playlistService;
@@ -17,7 +17,7 @@ namespace PortfolioBlog.Server.Controllers
         }
 
         // GET: /Playlist
-        [HttpGet]
+        [HttpGet("GetAllPlaylists")]
         public async Task<IActionResult> GetPlaylists()
         {
             var playlists = await _playlistService.GetAllPlaylistsAsync();

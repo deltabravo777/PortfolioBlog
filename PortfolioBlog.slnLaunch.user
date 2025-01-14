@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PortfolioBlog.Server\\PortfolioBlog.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "portfolioblog.client\\portfolioblog.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
