@@ -11,7 +11,10 @@ const SingleArticleDisplayComponent = ({ mainInterface, setMainInterface }:
             <div className="row">
                 <div className="col-sm-8">
                     <p style={{ whiteSpace: 'pre-wrap' }}>
-                        {mainInterface.articleObject.singleArticle?.articleBody}
+                        
+                        <div
+                            dangerouslySetInnerHTML={{ __html: mainInterface.articleObject.singleArticle?.articleBody as string }}
+                        ></div>
                     </p>
                 </div>
             </div>

@@ -4,5 +4,6 @@ export enum WindowDisplayEnum {
     articles = 3,
     singleArticle = 4,
     playlists = 5,
-    singlePlaylist = 6
+    singlePlaylist = 6,
+    createArticle = 7
 }

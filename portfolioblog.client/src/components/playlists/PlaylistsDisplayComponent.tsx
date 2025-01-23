@@ -13,7 +13,7 @@ const PlaylistsDisplayComponent = ({ mainInterface, setMainInterface }:
 
     useEffect(() => {
         console.log('PlaylistsDisplayComponent mounted');
-        FetAllPlaylists();
+        FetchAllPlaylists();
     }, []);
 
     const setSinglePlaylist = (playlist: MusicPlaylist) => {
@@ -24,7 +24,7 @@ const PlaylistsDisplayComponent = ({ mainInterface, setMainInterface }:
         setMainInterface(copyMain);
     }
 
-    const FetAllPlaylists = async () => {
+    const FetchAllPlaylists = async () => {
         try {
             const response = await axios.get(`${aspnetUrl}/api/Playlist/GetAllPlaylists`);
             console.log(response.data);

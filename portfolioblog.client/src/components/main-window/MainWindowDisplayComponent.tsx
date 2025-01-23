@@ -7,6 +7,7 @@ import ArticlesDisplayComponent from '../articles/ArticlesDisplayComponent';
 import SingleArticleDisplayComponent from '../articles/SingleArticleDisplayComponent';
 import PlaylistsDisplayComponent from '../playlists/PlaylistsDisplayComponent';
 import SinglePlaylistDisplayComponent from '../playlists/SinglePlaylistDisplayComponent';
+import CreateArticleDisplayComponent from '../articles/create-article/CreateArticleDisplayComponent';
 
 const MainWindowDisplayComponent = ({ mainInterface, setMainInterface }:
     { mainInterface: MainInterface, setMainInterface: React.Dispatch<React.SetStateAction<MainInterface>> }) => {
@@ -42,6 +43,11 @@ const MainWindowDisplayComponent = ({ mainInterface, setMainInterface }:
             {mainInterface.windowDisplayEnumValue == WindowDisplayEnum.singlePlaylist
                 &&
                 <SinglePlaylistDisplayComponent mainInterface={mainInterface} setMainInterface={setMainInterface} />
+            }
+
+            {mainInterface.windowDisplayEnumValue == WindowDisplayEnum.createArticle
+                &&
+                <CreateArticleDisplayComponent mainInterface={mainInterface} setMainInterface={setMainInterface} />
             }
 
         </div>

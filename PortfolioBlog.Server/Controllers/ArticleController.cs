@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
 using PortfolioBlog.Server.IService;
 using PortfolioBlog.Server.Models;
 using PortfolioBlog.Server.Models.Blog.Articles;
+using Newtonsoft.Json;
 
 
 namespace PortfolioBlog.Server.Controllers
@@ -37,16 +39,32 @@ namespace PortfolioBlog.Server.Controllers
         }
 
         // POST: /Article
-        [HttpPost]
-        public async Task<IActionResult> CreateArticle([FromBody] BlogArticle article)
+        [HttpPost("UploadNewArticle")]
+        public async Task<IActionResult> CreateArticle([FromBody] dynamic payload)
         {
+            JsonElement jsonElement = (JsonElement)payload;
+
+            // Convert the JsonElement to a JSON string
+            string jsonString = jsonElement.GetRawText();
+
+            // Deserialize the JSON string into a BlogArticle object
+            var article = JsonConvert.DeserializeObject<BlogArticle>(jsonString);
+            //return Ok("test message works for creatingArticle");
+
             if (article == null)
             {
                 return BadRequest("Article cannot be null.");
             }
 
-            await _articleService.AddBlogArticleAsync(article);
-            return CreatedAtAction(nameof(GetArticleByTitle), new { title = article.Title }, article);
+            var result = await _articleService.AddBlogArticleAsync(article);
+            if (result > 0)
+            {
+                return CreatedAtAction(nameof(GetArticleByTitle), new { title = article.Title }, article);
+            }
+            else {
+                return BadRequest("the article could not be saved");
+            }
+           
             // 201 Created with the URL of the new article
         }
 

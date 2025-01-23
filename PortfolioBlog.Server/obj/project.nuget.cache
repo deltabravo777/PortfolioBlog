@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dOxBwUBNcbU=",
+  "dgSpecHash": "7fq8cQmfwIM=",
   "success": true,
   "projectFilePath": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\PortfolioBlog.Server\\PortfolioBlog.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thedb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\thedb\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.0\\microsoft.aspnetcore.spaproxy.9.0.0.nupkg.sha512",
+    "C:\\Users\\thedb\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.1\\microsoft.aspnetcore.spaproxy.9.0.1.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
@@ -34,6 +34,7 @@
     "C:\\Users\\thedb\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\thedb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
     "C:\\Users\\thedb\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",

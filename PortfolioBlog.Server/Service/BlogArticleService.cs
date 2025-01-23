@@ -2,6 +2,7 @@
 using PortfolioBlog.Server.IService;
 using PortfolioBlog.Server.Models.Blog.Articles;
 using Microsoft.EntityFrameworkCore;
+using PortfolioBlog.Server.Models.ResultWrapper;
 
 namespace PortfolioBlog.Server.Service
 {
@@ -24,10 +25,10 @@ namespace PortfolioBlog.Server.Service
             return await _context.BlogArticles.FirstOrDefaultAsync(b => b.Title == title);
         }
 
-        public async Task AddBlogArticleAsync(BlogArticle blogArticle)
+        public async Task<int> AddBlogArticleAsync(BlogArticle blogArticle)
         {
             _context.BlogArticles.Add(blogArticle);
-            await _context.SaveChangesAsync();
+            return await _context.SaveChangesAsync();
         }
 
         public async Task UpdateBlogArticleAsync(BlogArticle blogArticle)

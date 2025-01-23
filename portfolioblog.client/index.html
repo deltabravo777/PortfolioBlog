@@ -1,13 +1,21 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React + TS</title>
-  </head>
-  <body>
+
+    <!-- Include Bootstrap CSS from node_modules -->
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
     <div id="root"></div>
+
+    <!-- Include Bootstrap JS (also from node_modules) -->
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Your main entry point -->
     <script type="module" src="/src/main.tsx"></script>
-  </body>
+</body>
 </html>

@@ -3,6 +3,7 @@ import { MainInterface } from '../../models/main-interface/MainInterface';
 import WYSIWYGButton from './buttons/WYSIWYGButton';
 import ArticleHomepageButton from './buttons/ArticleHomepageButton';
 import MusicPlaylistsButton from './buttons/MusicPlaylistsButton';
+import CreateArticleButton from './buttons/CreateArticleButton';
 
 const NavBarTop = ({ mainInterface, setMainInterface }:
     { mainInterface: MainInterface, setMainInterface: React.Dispatch<React.SetStateAction<MainInterface>> }) => {
@@ -13,6 +14,7 @@ const NavBarTop = ({ mainInterface, setMainInterface }:
             <div>
                 <MusicPlaylistsButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
                 <ArticleHomepageButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
+                <CreateArticleButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
                 <WYSIWYGButton mainInterface={mainInterface} setMainInterface={setMainInterface} />
             </div>
         </div>

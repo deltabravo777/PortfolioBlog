@@ -15,7 +15,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/9.0.0": {
+      "Microsoft.AspNetCore.SpaProxy/9.0.1": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -726,6 +726,19 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.10": {
         "type": "package",
         "dependencies": {
@@ -1116,10 +1129,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/9.0.0": {
-      "sha512": "rzrW3ig2daD/G7xa3PQjvVsbudjaDPVvuMFgpNF+cIlRn8lBthRaDY218Yyqetf/ItC3sZb5FFLZhQVAIOuxOg==",
+    "Microsoft.AspNetCore.SpaProxy/9.0.1": {
+      "sha512": "x7Cb85lZTXGmAItCuh4wnNbKYXPMEuZ1atV4oM1Ofp9x5ueGTl/eiEaUbwhhTAOqJTFCpCaoyhlh/vwY0fanXQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/9.0.0",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1127,7 +1140,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.9.0.1.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -2600,6 +2613,36 @@
         "readme.md"
       ]
     },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.10": {
       "sha512": "UxWuisvZ3uVcVOLJQv7urM/JiQH+v3TmaJc1BLKl5Dxfm/nTzTUrqswCqg/INiYLi61AXnHo1M1JPmPqqLnAdg==",
       "type": "package",
@@ -3107,7 +3150,8 @@
       "Microsoft.AspNetCore.SpaProxy >= 9.*-*",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0"
+      "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0",
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -3177,6 +3221,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
           }
         },
         "imports": [

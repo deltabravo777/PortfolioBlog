@@ -6,7 +6,7 @@ namespace PortfolioBlog.Server.IService
     {
         Task<IEnumerable<BlogArticle>> GetAllBlogArticlesAsync();
         Task<BlogArticle> GetBlogArticleByTitleAsync(string title);
-        Task AddBlogArticleAsync(BlogArticle blogArticle);
+        Task<int> AddBlogArticleAsync(BlogArticle blogArticle);
         Task UpdateBlogArticleAsync(BlogArticle blogArticle);
         Task DeleteBlogArticleByTitleAsync(string title);
     }

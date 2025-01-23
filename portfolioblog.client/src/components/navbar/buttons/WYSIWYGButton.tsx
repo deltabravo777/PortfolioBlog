@@ -13,7 +13,7 @@ const WYSIWYGButton = ({ mainInterface, setMainInterface }:
     }
 
     return (
-        <i className="bi bi-calendar2-plus" onClick={ toggleToWYSIWYGPage} style={{ padding: '7px' }}></i>
+        <i className="bi bi-calendar2-minus" onClick={ toggleToWYSIWYGPage} style={{ padding: '7px' }}></i>
     );
 }
 
