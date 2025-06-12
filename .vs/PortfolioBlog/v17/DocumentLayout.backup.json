@@ -1,0 +1,1148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\enemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\enemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\drawable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\drawable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\greenboxenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\greenboxenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybullet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybullet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wordle\\wordledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wordle\\wordledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\wordlebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\buttons\\wordlebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\bullet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\bullet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\practice-spaceinvaders\\practicespaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\practice-spaceinvaders\\practicespaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\holdembutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\buttons\\holdembutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\navbartop.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\navbartop.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\spaceinvadersbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\buttons\\spaceinvadersbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\main-window\\mainwindowdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\main-window\\mainwindowdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\holdemdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\holdemdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\practice_spaceinvadersbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\buttons\\practice_spaceinvadersbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\main-interface\\maininterface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\main-interface\\maininterface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\musicplaylistsbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\navbar\\buttons\\musicplaylistsbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editarticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editarticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editrankformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editrankformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectrankformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectrankformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editcategoryformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editcategoryformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectcategoryformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectcategoryformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\edityearformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\edityearformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectyearformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectyearformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editdayformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editdayformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\wysiwygdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\wysiwygdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectdayformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectdayformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editmonthformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\editmonthformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectmonthformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\selectmonthformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\fileeditcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\fileeditcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\file-upload\\fileuploadcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\file-upload\\fileuploadcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\photouploadformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\form\\photouploadformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\titleupdateformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wysiwyg\\form\\titleupdateformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\createarticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\createarticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\singlearticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\singlearticledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\children\\playertilecomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\children\\playertilecomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\holdemcontrolbarcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\holdemcontrolbarcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\getwinnerbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\getwinnerbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\drawpubliccardbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\drawpubliccardbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\drawprivatecardbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\drawprivatecardbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\holdeminterface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\holdeminterface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\children\\playerdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\children\\playerdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem\\cardcombosenum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem\\cardcombosenum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\resettablebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\resettablebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\shuffledeckbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\shuffledeckbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\createtitleformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\createtitleformcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\func\\main-func.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\func\\main-func.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\func\\playlist\\playlistsfunc.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\func\\playlist\\playlistsfunc.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\children\\deckdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\children\\deckdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getcardname.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getcardname.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getsuitsymbol.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getsuitsymbol.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\homepage\\homepagecomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\homepage\\homepagecomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\App.tsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T20:40:20.169Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainInterface.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T20:40:30.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "deck-dealing-func.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T21:02:02.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrangeTriangleEnemyMk1.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx*",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-12T20:07:38.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T23:24:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollisionHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T23:21:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpaceInvadersDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowIQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T21:38:09.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-24T03:42:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drawable.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-22T02:54:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GreenBoxEnemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T20:31:48.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PinkTriangleEnemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T20:21:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerShip.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-22T02:52:51.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyBulletMk1.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T20:42:14.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyBullet.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-12T00:17:14.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordleDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-17T16:24:48.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordleButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-17T16:26:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bullet.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T02:14:54.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PracticeSpaceInvadersDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T20:26:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoldemButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:24:53.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavBarTop.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:24:35.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpaceInvadersButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T21:40:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindowDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T20:40:46.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "window-display-emum.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:23:58.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoldemDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:22:33.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Practice_SpaceInvadersButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T20:30:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAAQvAAAAAAAAAAAWwBcvAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-10T21:32:13.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MusicPlaylistsButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:24:55.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SelectCategoryFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:31:22.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditRankFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T17:35:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditArticleDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:14:27.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SelectRankFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T17:34:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditCategoryFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:31:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SelectYearFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:27:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditYearFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:27:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SelectDayFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T21:39:07.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditDayFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T22:28:46.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WYSIWYGDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:07:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileUploadComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:56:22.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FileEditComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD4AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:57:30.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SelectMonthFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T19:16:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditMonthFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T19:17:08.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "editor-object.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:11:00.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PhotoUploadFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:49:10.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TitleUpdateFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:22:45.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SingleArticleDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:12:32.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HoldemInterface.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:34:06.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateArticleDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T18:12:47.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HoldemControlBarComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T18:56:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlayerTileComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:03:29.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "player.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T21:24:00.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DrawPublicCardButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T21:19:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetWinnerButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-12T17:57:10.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "room.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T18:57:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PlayerDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T19:04:45.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DrawPrivateCardButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T22:50:57.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CardCombosEnum.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T23:06:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ResetTableButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T22:57:17.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShuffleDeckButton.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T21:15:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "deck.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T17:59:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateTitleFormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T21:19:24.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "main-holdem-func.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:12:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DeckDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T18:12:51.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "main-func.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\main-func.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\main-func.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\main-func.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\func\\main-func.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:08:26.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PlaylistsFunc.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:12:55.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "playing-card.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T17:54:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "getSuitSymbol.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T17:59:55.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "getCardName.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:01:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "suits.ts",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
+              "RelativeToolTip": "portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:42:51.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HomepageComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T23:22:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.css",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.css",
+              "RelativeToolTip": "portfolioblog.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T18:20:59.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,7 @@ import { deepClone } from '../../utility/deepClone';
 import { BlogArticle } from '../../models/blog/blog-article/BlogArticle';
 import { ArticleEditMode } from '../../models/main-interface/editor/ArticleEditMode';
 import TitleUpdateFormComponent from './form/TitleUpdateFormComponent';
+import EditArticleDisplayComponent from './edit-article/EditArticleDisplayComponent';
 
 const WYSIWYGDisplayComponent = ({ mainInterface, setMainInterface }:
     { mainInterface: MainInterface, setMainInterface: React.Dispatch<React.SetStateAction<MainInterface>> }) => {
@@ -145,14 +146,14 @@ const WYSIWYGDisplayComponent = ({ mainInterface, setMainInterface }:
             <br />
             <div>
                 {
-                    mainInterface.editorObject.editingArticle
+                    mainInterface.editorObject.articleEditMode == ArticleEditMode.article
                     &&
                     <div>
                             <div className="d-flex flex-row align-items-center">
                                 <p className="mb-0">Title:</p>
                                 <TitleUpdateFormComponent mainInterface={mainInterface} setMainInterface={setMainInterface} />
                             </div>
-                            
+                            <EditArticleDisplayComponent mainInterface={mainInterface} setMainInterface={setMainInterface} />
                     </div>
                     
                 }

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "PortfolioBlog.Server/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.SpaProxy": "9.0.1",
+          "Microsoft.AspNetCore.SpaProxy": "9.0.4",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
@@ -26,11 +26,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/9.0.1": {
+      "Microsoft.AspNetCore.SpaProxy/9.0.4": {
         "runtime": {
           "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {
-            "assemblyVersion": "9.0.1.0",
-            "fileVersion": "9.0.124.61009"
+            "assemblyVersion": "9.0.4.0",
+            "fileVersion": "9.0.425.16403"
           }
         }
       },
@@ -739,12 +739,12 @@
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.SpaProxy/9.0.1": {
+    "Microsoft.AspNetCore.SpaProxy/9.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-x7Cb85lZTXGmAItCuh4wnNbKYXPMEuZ1atV4oM1Ofp9x5ueGTl/eiEaUbwhhTAOqJTFCpCaoyhlh/vwY0fanXQ==",
-      "path": "microsoft.aspnetcore.spaproxy/9.0.1",
-      "hashPath": "microsoft.aspnetcore.spaproxy.9.0.1.nupkg.sha512"
+      "sha512": "sha512-HOgobccKyqnbpliwlsgz9B7OP4vpqmTIMJM0Zc2t6XrYJV4MD0+4T+Yrs6muia5cXPXy2jsO/SjWoqqT1/mf8g==",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.4",
+      "hashPath": "microsoft.aspnetcore.spaproxy.9.0.4.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
       "type": "package",

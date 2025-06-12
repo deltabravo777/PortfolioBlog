@@ -15,7 +15,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/9.0.1": {
+      "Microsoft.AspNetCore.SpaProxy/9.0.4": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -1129,10 +1129,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/9.0.1": {
-      "sha512": "x7Cb85lZTXGmAItCuh4wnNbKYXPMEuZ1atV4oM1Ofp9x5ueGTl/eiEaUbwhhTAOqJTFCpCaoyhlh/vwY0fanXQ==",
+    "Microsoft.AspNetCore.SpaProxy/9.0.4": {
+      "sha512": "HOgobccKyqnbpliwlsgz9B7OP4vpqmTIMJM0Zc2t6XrYJV4MD0+4T+Yrs6muia5cXPXy2jsO/SjWoqqT1/mf8g==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/9.0.1",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1140,7 +1140,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.9.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.9.0.4.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -3196,9 +3196,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -3246,7 +3246,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
