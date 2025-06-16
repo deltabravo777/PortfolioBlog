@@ -1,9 +1,12 @@
 import { Bullet } from './Bullet';
+import { BrownBoxEnemy } from './enemy/BrownBoxEnemy';
 import { Enemy } from './enemy/Enemy';
 //import { Enemy } from './Enemy';
 import { GreenBoxEnemy } from './enemy/GreenBoxEnemy';
 import { OrangeTriangleEnemyMk1 } from './enemy/OrangeTriangleEnemyMk1';
+import { OrangeTriangleEnemyMk2 } from './enemy/OrangeTriangleEnemyMk2';
 import { PinkTriangleEnemy } from './enemy/PinkTriangleEnemy';
+import { PinkTriangleEnemyMk2 } from './enemy/PinkTriangleEnemyMk2';
 import { EnemyBullet } from './EnemyBullet';
 //import { GreenBoxEnemy } from './GreenBoxEnemy';
 //import { PinkTriangleEnemy } from './PinkTriangleEnemy';
@@ -34,7 +37,12 @@ export class CollisionHandler {
             for (let j = this.enemies.length - 1; j >= 0; j--) {
                 const enemy = this.enemies[j];
 
-                if (enemy instanceof GreenBoxEnemy || enemy instanceof PinkTriangleEnemy || enemy instanceof OrangeTriangleEnemyMk1) {
+                if (enemy instanceof GreenBoxEnemy
+                    || enemy instanceof PinkTriangleEnemy
+                    || enemy instanceof OrangeTriangleEnemyMk1
+                    || enemy instanceof OrangeTriangleEnemyMk2
+                    || enemy instanceof BrownBoxEnemy
+                    || enemy instanceof PinkTriangleEnemyMk2) {
                     // Shared logic for both types
                     if (
                         bullet.x < enemy.x + 30 &&
@@ -45,7 +53,7 @@ export class CollisionHandler {
                         enemy.health -= 10;
 
                         if (enemy.health <= 0) {
-                            if (enemy instanceof OrangeTriangleEnemyMk1) {
+                            if (enemy instanceof OrangeTriangleEnemyMk1 || enemy instanceof OrangeTriangleEnemyMk2) {
                                 enemy.destroy();
                             }
                             this.enemies.splice(j, 1);

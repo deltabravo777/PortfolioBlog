@@ -39,7 +39,7 @@ const SpaceInvadersDisplayComponent = ({
         setPlayerShip(ship);
 
         // Initialize LevelHandler and start Level 1
-        const handler = new LevelHandler(ctx, enemies, enemyBullets, setLevel, setLevelTriggered);
+        const handler = new LevelHandler(ctx, enemies, enemyBullets, setLevel, setLevelTriggered, ship);
         handler.StartLevel1();
         setLevelHandler(handler);
 

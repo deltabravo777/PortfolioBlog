@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk2.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk2.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\orangetriangleenemymk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemymk2.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemymk2.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\levelhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\brownboxenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\brownboxenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\enemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -17,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\drawable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\drawable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\collisionhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\spaceinvadersdisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\pinktriangleenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\greenboxenemy.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -41,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\wordle\\wordledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\wordle\\wordledisplaycomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemybulletmk1.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|solutionrelative:portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\playership.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744CD866-5759-4AA8-9838-8B18EC40CF3E}|portfolioblog.client\\portfolioblog.client.esproj|c:\\users\\thedb\\desktop\\sourcecode\\portfolioblog\\portfolioblog.client\\src\\components\\navbar\\buttons\\wordlebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -294,7 +306,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\App.tsx",
@@ -307,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "MainInterface.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\main-interface\\MainInterface.ts",
@@ -320,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "deck-dealing-func.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\holdem\\deck-dealing-func.tsx",
@@ -334,119 +346,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LevelHandler.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
-              "ViewState": "AgIAAFoAAAAAAAAAAADwv5UAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-24T03:42:48.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enemy.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-23T23:24:55.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CollisionHandler.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
               "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
               "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\CollisionHandler.tsx",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-04-23T23:21:19.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpaceInvadersDisplayComponent.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAowIQAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BrownBoxEnemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\BrownBoxEnemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\BrownBoxEnemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\BrownBoxEnemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\BrownBoxEnemy.tsx",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-14T21:38:09.844Z"
+              "WhenOpened": "2025-06-13T20:27:12.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrangeTriangleEnemyMk1.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
               "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
               "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk1.tsx",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-12T20:07:38.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T20:07:38.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Drawable.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrangeTriangleEnemyMk2.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk2.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk2.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk2.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\OrangeTriangleEnemyMk2.tsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwG0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-22T02:54:58.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T01:54:27.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GreenBoxEnemy.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-23T20:31:48.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PinkTriangleEnemy.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-10T20:21:52.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PlayerShip.tsx",
-              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
-              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
-              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
-              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-22T02:52:51.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "EnemyBulletMk1.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBulletMk1.tsx",
@@ -458,7 +406,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PinkTriangleEnemyMk2.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemyMk2.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemyMk2.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemyMk2.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemyMk2.tsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T23:17:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpaceInvadersDisplayComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\SpaceInvadersDisplayComponent.tsx",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T21:38:09.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerShip.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\PlayerShip.tsx",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-22T02:52:51.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\LevelHandler.tsx",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAYwCkBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-24T03:42:48.858Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "PinkTriangleEnemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\PinkTriangleEnemy.tsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T20:21:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreenBoxEnemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\GreenBoxEnemy.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA7wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T20:31:48.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\enemy\\Enemy.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T23:24:55.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Drawable.tsx",
+              "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "ToolTip": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "RelativeToolTip": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Drawable.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-22T02:54:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "EnemyBullet.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\EnemyBullet.tsx",
@@ -470,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "WordleDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wordle\\WordleDisplayComponent.tsx",
@@ -482,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WordleButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\WordleButton.tsx",
@@ -494,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Bullet.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\spaceinvaders\\child-components\\Bullet.tsx",
@@ -506,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PracticeSpaceInvadersDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\practice-spaceinvaders\\PracticeSpaceInvadersDisplayComponent.tsx",
@@ -518,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "HoldemButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\HoldemButton.tsx",
@@ -530,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "NavBarTop.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\NavBarTop.tsx",
@@ -542,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SpaceInvadersButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\SpaceInvadersButton.tsx",
@@ -554,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "MainWindowDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\main-window\\MainWindowDisplayComponent.tsx",
@@ -566,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "window-display-emum.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\window-display\\window-display-emum.ts",
@@ -578,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "HoldemDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\HoldemDisplayComponent.tsx",
@@ -590,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Practice_SpaceInvadersButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\Practice_SpaceInvadersButton.tsx",
@@ -602,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "react-dom.development.js",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
               "RelativeDocumentMoniker": "portfolioblog.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
@@ -614,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "MusicPlaylistsButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\navbar\\buttons\\MusicPlaylistsButton.tsx",
@@ -626,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "SelectCategoryFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectCategoryFormComponent.tsx",
@@ -638,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "EditRankFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditRankFormComponent.tsx",
@@ -650,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "EditArticleDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditArticleDisplayComponent.tsx",
@@ -662,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "SelectRankFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectRankFormComponent.tsx",
@@ -674,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "EditCategoryFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditCategoryFormComponent.tsx",
@@ -686,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "SelectYearFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectYearFormComponent.tsx",
@@ -698,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "EditYearFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditYearFormComponent.tsx",
@@ -710,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "SelectDayFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectDayFormComponent.tsx",
@@ -722,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "EditDayFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditDayFormComponent.tsx",
@@ -734,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "WYSIWYGDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\WYSIWYGDisplayComponent.tsx",
@@ -746,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "FileUploadComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\file-upload\\FileUploadComponent.tsx",
@@ -758,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "FileEditComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\FileEditComponent.tsx",
@@ -770,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "SelectMonthFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\SelectMonthFormComponent.tsx",
@@ -782,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "EditMonthFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\edit-article\\EditMonthFormComponent.tsx",
@@ -794,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "editor-object.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\main-interface\\editor\\editor-object.ts",
@@ -806,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "PhotoUploadFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\form\\PhotoUploadFormComponent.tsx",
@@ -818,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "TitleUpdateFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\wysiwyg\\form\\TitleUpdateFormComponent.tsx",
@@ -830,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "SingleArticleDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\SingleArticleDisplayComponent.tsx",
@@ -842,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "HoldemInterface.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\HoldemInterface.ts",
@@ -854,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "CreateArticleDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\CreateArticleDisplayComponent.tsx",
@@ -866,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "HoldemControlBarComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\HoldemControlBarComponent.tsx",
@@ -878,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "PlayerTileComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerTileComponent.tsx",
@@ -890,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "player.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\player\\player.ts",
@@ -902,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "DrawPublicCardButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPublicCardButton.tsx",
@@ -914,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "GetWinnerButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\GetWinnerButton.tsx",
@@ -926,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "room.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\room\\room.ts",
@@ -938,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "PlayerDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\PlayerDisplayComponent.tsx",
@@ -950,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "DrawPrivateCardButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\DrawPrivateCardButton.tsx",
@@ -962,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "CardCombosEnum.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem\\CardCombosEnum.ts",
@@ -974,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "ResetTableButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ResetTableButton.tsx",
@@ -986,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "ShuffleDeckButton.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\control-bar\\buttons\\ShuffleDeckButton.tsx",
@@ -998,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "deck.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\deck\\deck.ts",
@@ -1010,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "CreateTitleFormComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\articles\\create-article\\child-components\\CreateTitleFormComponent.tsx",
@@ -1022,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "main-holdem-func.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\holdem\\main-holdem-func.ts",
@@ -1034,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "DeckDisplayComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\DeckDisplayComponent.tsx",
@@ -1046,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "main-func.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\main-func.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\main-func.tsx",
@@ -1058,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "PlaylistsFunc.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\func\\playlist\\PlaylistsFunc.tsx",
@@ -1070,7 +1114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "playing-card.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\card\\playing-card.ts",
@@ -1082,7 +1126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "getSuitSymbol.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getSuitSymbol.tsx",
@@ -1094,7 +1138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "getCardName.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\holdem\\children\\card-display\\getCardName.tsx",
@@ -1106,7 +1150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "suits.ts",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\models\\holdem-interface\\card\\suits.ts",
@@ -1118,7 +1162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "HomepageComponent.tsx",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\components\\homepage\\HomepageComponent.tsx",
@@ -1130,7 +1174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\thedb\\Desktop\\sourcecode\\PortfolioBlog\\portfolioblog.client\\src\\App.css",
               "RelativeDocumentMoniker": "portfolioblog.client\\src\\App.css",

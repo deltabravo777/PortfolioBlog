@@ -4,8 +4,8 @@ import { EnemyBulletMk1 } from '../EnemyBulletMk1';
 
 export class OrangeTriangleEnemyMk1 extends Enemy {
     static uniformDirection: number = 1;
-    static mostLeft: number = Infinity;
-    static mostRight: number = -Infinity;
+    //static mostLeft: number = Infinity;
+    //static mostRight: number = -Infinity;
     static friends: OrangeTriangleEnemyMk1[] = [];
 
     enemyBullets: EnemyBullet[];
@@ -58,20 +58,20 @@ export class OrangeTriangleEnemyMk1 extends Enemy {
 
         this.x += OrangeTriangleEnemyMk1.uniformDirection * this.moveSpeed;
 
-        const leftEdge = this.x;
-        const rightEdge = this.x + 30;
+        //const leftEdge = this.x;
+        //const rightEdge = this.x + 30;
 
-        if (leftEdge < OrangeTriangleEnemyMk1.mostLeft) {
-            OrangeTriangleEnemyMk1.mostLeft = leftEdge;
-        } else if (Math.abs(leftEdge - OrangeTriangleEnemyMk1.mostLeft) <= 15) {
-            OrangeTriangleEnemyMk1.mostLeft = leftEdge;
-        }
+        //if (leftEdge < OrangeTriangleEnemyMk1.mostLeft) {
+        //    OrangeTriangleEnemyMk1.mostLeft = leftEdge;
+        //} else if (Math.abs(leftEdge - OrangeTriangleEnemyMk1.mostLeft) <= 15) {
+        //    OrangeTriangleEnemyMk1.mostLeft = leftEdge;
+        //}
 
-        if (rightEdge > OrangeTriangleEnemyMk1.mostRight) {
-            OrangeTriangleEnemyMk1.mostRight = rightEdge;
-        } else if (Math.abs(rightEdge - OrangeTriangleEnemyMk1.mostRight) <= 15) {
-            OrangeTriangleEnemyMk1.mostRight = rightEdge;
-        }
+        //if (rightEdge > OrangeTriangleEnemyMk1.mostRight) {
+        //    OrangeTriangleEnemyMk1.mostRight = rightEdge;
+        //} else if (Math.abs(rightEdge - OrangeTriangleEnemyMk1.mostRight) <= 15) {
+        //    OrangeTriangleEnemyMk1.mostRight = rightEdge;
+        //}
 
         this.age++;
         // AI Resume Keywords

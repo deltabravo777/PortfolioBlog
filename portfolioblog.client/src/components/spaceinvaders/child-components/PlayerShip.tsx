@@ -7,12 +7,13 @@ export class PlayerShip extends Drawable {
     autofireInterval: NodeJS.Timeout | null = null;
     health: number; // Add health field
     maxHealth: number;
-
+    width: number; // ⬅️ NEW: Add width
     constructor(x: number, y: number, ctx: CanvasRenderingContext2D, bullets: Bullet[]) {
         super(x, y, ctx);
         this.bullets = bullets; // Pass the bullets array to the player ship
         this.maxHealth = 100;
         this.health = 50; // Initialize health to 50
+        this.width = 30; // ⬅️ NEW: Initialize width
         this.startAutoFire(); // Automatically start autofiring on creation
     }
 
