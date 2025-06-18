@@ -1,5 +1,5 @@
-import { EnemyBullet } from '../EnemyBullet';
-import { EnemyBulletMk1 } from '../EnemyBulletMk1';
+import { EnemyBullet } from '../bullets/EnemyBullet';
+import { EnemyBulletMk1 } from '../bullets/EnemyBulletMk1';
 import { Enemy } from './Enemy';
 
 export class PinkTriangleEnemy extends Enemy {

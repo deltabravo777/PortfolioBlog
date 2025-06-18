@@ -2,12 +2,12 @@
 import { useEffect, useRef, useState } from 'react';
 import { MainInterface } from '../../models/main-interface/MainInterface';
 import { PlayerShip } from './child-components/PlayerShip';
-import { Bullet } from './child-components/Bullet';
 import { Drawable } from './child-components/Drawable';
 import { LevelHandler } from './child-components/LevelHandler';
 import { CollisionHandler } from './child-components/CollisionHandler';
-import { Enemy } from './child-components/Enemy';
-import { EnemyBullet } from './child-components/EnemyBullet';
+import { Bullet } from './child-components/bullets/Bullet';
+import { Enemy } from './child-components/enemy/Enemy';
+import { EnemyBullet } from './child-components/bullets/EnemyBullet';
 
 // @ts-ignore: TS6133
 const SpaceInvadersDisplayComponent = ({

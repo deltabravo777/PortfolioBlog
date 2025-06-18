@@ -1,15 +1,14 @@
-import { Bullet } from './Bullet';
+import { Bullet } from './bullets/Bullet';
+import { EnemyBullet } from './bullets/EnemyBullet';
+import { OrangeEnemyLaserMk1 } from './bullets/OrangeEnemyLaserseMk1';
 import { BrownBoxEnemy } from './enemy/BrownBoxEnemy';
 import { Enemy } from './enemy/Enemy';
-//import { Enemy } from './Enemy';
 import { GreenBoxEnemy } from './enemy/GreenBoxEnemy';
 import { OrangeTriangleEnemyMk1 } from './enemy/OrangeTriangleEnemyMk1';
 import { OrangeTriangleEnemyMk2 } from './enemy/OrangeTriangleEnemyMk2';
 import { PinkTriangleEnemy } from './enemy/PinkTriangleEnemy';
 import { PinkTriangleEnemyMk2 } from './enemy/PinkTriangleEnemyMk2';
-import { EnemyBullet } from './EnemyBullet';
-//import { GreenBoxEnemy } from './GreenBoxEnemy';
-//import { PinkTriangleEnemy } from './PinkTriangleEnemy';
+import { YellowBoxEnemyMk1 } from './enemy/YellowBoxEnemyMk1';
 import { PlayerShip } from './PlayerShip';
 
 export class CollisionHandler {
@@ -42,7 +41,8 @@ export class CollisionHandler {
                     || enemy instanceof OrangeTriangleEnemyMk1
                     || enemy instanceof OrangeTriangleEnemyMk2
                     || enemy instanceof BrownBoxEnemy
-                    || enemy instanceof PinkTriangleEnemyMk2) {
+                    || enemy instanceof PinkTriangleEnemyMk2
+                    || enemy instanceof YellowBoxEnemyMk1) {
                     // Shared logic for both types
                     if (
                         bullet.x < enemy.x + 30 &&
@@ -84,5 +84,40 @@ export class CollisionHandler {
                 this.enemyBullets.splice(i, 1); // remove bullet on hit
             }
         }
+
+        // Enemy lasers
+        for (let i = this.enemyBullets.length - 1; i >= 0; i--) {
+            const laser = this.enemyBullets[i];
+
+            if (laser instanceof OrangeEnemyLaserMk1) {
+                if (laser.age >= laser.lifespan) {
+                    laser.destroy();
+                    this.enemyBullets.splice(i, 1);
+                    continue;
+                }
+
+                // 1. Check if laser intersects with player horizontally
+                // DOUBLE CHECK LOGIC
+                const withinX =
+                    laser.x < this.player.x + 15 &&        // right edge of laser is left of player right
+                    laser.x + laser.width > this.player.x - 15; // left edge of laser is right of player left
+
+                // 2. Check if laser intersects with player vertically
+                const withinY =
+                    laser.y < this.player.y + 15 &&        // top of laser is above player bottom
+                    laser.y + laser.height > this.player.y - 15; // bottom of laser is below player top
+
+                // 3. Can the laser deal damage (cooldown check)
+                const canDamage = laser.canDealDamage();
+
+                // 4. If all conditions are met, apply damage
+                if (withinX && withinY && canDamage) {
+                    this.player.takeDamage(laser.damage);
+                    laser.markDamageDealt(); // update lastDamageDealtAge
+                }
+
+            }
+        }
+
     }
 }

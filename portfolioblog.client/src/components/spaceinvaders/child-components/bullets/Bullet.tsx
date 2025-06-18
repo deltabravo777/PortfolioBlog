@@ -1,4 +1,4 @@
-import { Drawable } from "./Drawable";
+import { Drawable } from "../Drawable";
 
 export class Bullet extends Drawable {
     speed: number;

@@ -1,3 +1,4 @@
+import { EnemyBullet } from './bullets/EnemyBullet';
 import { Drawable } from './Drawable';
 import { BrownBoxEnemy } from './enemy/BrownBoxEnemy';
 import { GreenBoxEnemy } from './enemy/GreenBoxEnemy';
@@ -5,8 +6,9 @@ import { OrangeTriangleEnemyMk1 } from './enemy/OrangeTriangleEnemyMk1';
 import { OrangeTriangleEnemyMk2 } from './enemy/OrangeTriangleEnemyMk2';
 import { PinkTriangleEnemy } from './enemy/PinkTriangleEnemy';
 import { PinkTriangleEnemyMk2 } from './enemy/PinkTriangleEnemyMk2';
-import { EnemyBullet } from './EnemyBullet';
-import { EnemyBulletMk1 } from './EnemyBulletMk1';
+import { YellowBoxEnemyMk1 } from './enemy/YellowBoxEnemyMk1';
+//import { EnemyBullet } from './EnemyBullet';
+//import { EnemyBulletMk1 } from './EnemyBulletMk1';
 import { PlayerShip } from './PlayerShip';
 //import { GreenBoxEnemy } from './GreenBoxEnemy';
 //import { PinkTriangleEnemy } from './PinkTriangleEnemy';
@@ -44,7 +46,7 @@ export class LevelHandler {
     //    new Promise((resolve) => this.setLevel(newState, resolve));
 
 
-    fastforwardLevels: boolean = true;
+    fastforwardLevels: boolean = false;
 
     checkLevelProgress(currentLevel: number, currentLevelTriggered: boolean, enemies: Drawable[]) {
         //console.log(`current level is ${currentLevel}`)
@@ -143,11 +145,35 @@ export class LevelHandler {
                 this.setLevelTriggered(true);
             }
         }
+        else if (currentLevel == 10) {
+            if (currentLevelTriggered == true) {
+                console.log(`Level 10 enemies dispatching`);
+                this.StartLevel10();
+                this.setLevelTriggered(false);
+            }
+            else if (enemies.length == 0) {
+                this.setLevel(11);
+                this.setLevelTriggered(true);
+            }
+        }
+        else if (currentLevel == 11) {
+            if (currentLevelTriggered == true) {
+                console.log(`Level 11 enemies dispatching`);
+                this.StartLevel11();
+                this.setLevelTriggered(false);
+            }
+            else if (enemies.length == 0) {
+                this.setLevel(12);
+                this.setLevelTriggered(true);
+            }
+        }
     }
 
     StartLevel2() {
-        const spacing = 60; // space between enemies
-        const startX = -spacing * 5; // start further left for offscreen entry
+        this.enemies.length = 0;
+
+        const spacing = 60;
+        const startX = -spacing * 5;
         const y = 100;
 
         for (let i = 0; i < 5; i++) {
@@ -158,9 +184,11 @@ export class LevelHandler {
     }
 
     StartLevel3() {
-        const spacing = 40; // space between enemies
-        const startY = -30; // start above the visible canvas
-        const startX = 10;  // initial x offset from the left edge
+        this.enemies.length = 0;
+
+        const spacing = 40;
+        const startY = -30;
+        const startX = 10;
 
         for (let i = 0; i < 3; i++) {
             const x = startX + i * spacing;
@@ -171,11 +199,13 @@ export class LevelHandler {
     }
 
     StartLevel4() {
-        const spacing = 40; // space between enemies
-        const startY = -30; // start above the visible canvas
-        const canvasWidth = 400; // assuming canvas width is 400
-        const enemyWidth = 30; // width of one PinkTriangleEnemy
-        const offset = 15; // shift all enemies left by 30 units
+        this.enemies.length = 0;
+
+        const spacing = 40;
+        const startY = -30;
+        const canvasWidth = 400;
+        const enemyWidth = 30;
+        const offset = 15;
 
         for (let i = 0; i < 3; i++) {
             const x = canvasWidth - (enemyWidth + i * spacing) - offset;
@@ -186,22 +216,17 @@ export class LevelHandler {
     }
 
     StartLevel5() {
-        const startX = -120; // Small left offset
-        const y = 60; // Vertical position on screen
+        this.enemies.length = 0;
+
+        const startX = -120;
+        const y = 60;
 
         OrangeTriangleEnemyMk1.uniformDirection = 1;
-        //OrangeTriangleEnemyMk1.mostLeft = Number.MAX_SAFE_INTEGER;
-        //OrangeTriangleEnemyMk1.mostRight = Number.MIN_SAFE_INTEGER;
 
         for (let i = 0; i < 3; i++) {
-            const x = startX + i * 40; // 30 width + 10 space
+            const x = startX + i * 40;
             const enemy = new OrangeTriangleEnemyMk1(
-                x,
-                y,
-                this.ctx,
-                this.enemyBullets,
-                130,
-                100
+                x, y, this.ctx, this.enemyBullets, 130, 100
             );
             this.enemies.push(enemy);
         }
@@ -211,7 +236,8 @@ export class LevelHandler {
     }
 
     StartLevel6() {
-        // Wave 1
+        this.enemies.length = 0;
+
         const startX1 = -120;
         const y1 = 60;
 
@@ -221,19 +247,12 @@ export class LevelHandler {
         for (let i = 0; i < 3; i++) {
             const x = startX1 + i * 40;
             const enemy = new OrangeTriangleEnemyMk2(
-                x,
-                y1,
-                this.ctx,
-                this.enemyBullets,
-                130,
-                100,
-                1
+                x, y1, this.ctx, this.enemyBullets, 130, 100, 1
             );
             OrangeTriangleEnemyMk2.waveGroups[1].push(enemy);
             this.enemies.push(enemy);
         }
 
-        // Wave 2
         const startX2 = -200;
         const y2 = 120;
 
@@ -243,13 +262,7 @@ export class LevelHandler {
         for (let i = 0; i < 3; i++) {
             const x = startX2 + i * 40;
             const enemy = new OrangeTriangleEnemyMk2(
-                x,
-                y2,
-                this.ctx,
-                this.enemyBullets,
-                130,
-                100,
-                2
+                x, y2, this.ctx, this.enemyBullets, 130, 100, 2
             );
             OrangeTriangleEnemyMk2.waveGroups[2].push(enemy);
             this.enemies.push(enemy);
@@ -260,43 +273,74 @@ export class LevelHandler {
     }
 
     StartLevel7() {
-        const x = -50;  // Initial horizontal position
-        const y = 80;   // Initial vertical position
+        this.enemies.length = 0;
+
+        const x = -50;
+        const y = 80;
 
         const enemy = new BrownBoxEnemy(x, y, this.ctx, this.playerShip, this.enemyBullets);
         this.enemies.push(enemy);
     }
 
     StartLevel8() {
-        //const enemies: BrownBoxEnemy[] = [];
+        this.enemies.length = 0;
 
-        // Assuming canvas width and height are accessible as this.ctx.canvas.width / height
         const canvasWidth = this.ctx.canvas.width;
         const canvasHeight = this.ctx.canvas.height;
 
-        // We'll spawn them off-screen to the right (x > canvasWidth)
-        // with staggered y positions from top (small y) to bottom (larger y)
-
-        // For example: each enemy is offset by 60px horizontally and 40px vertically
         for (let i = 0; i < 3; i++) {
-            const startX = -40;  // 100px offscreen left
+            const startX = -40;
             const x = startX - (i * 50);
-
-            const y = 50 + (i * 50);            // staggered downwards
-
+            const y = 50 + (i * 50);
             const enemy = new BrownBoxEnemy(x, y, this.ctx, this.playerShip, this.enemyBullets);
-            //this.enemies.push(enemy);
             this.enemies.push(enemy);
         }
     }
 
     StartLevel9() {
-        const canvasWidth = this.ctx.canvas.width;
-        const startX = canvasWidth / 2 - 15;  // center horizontally, adjust for half width (30 / 2 = 15)
-        const startY = -40;                   // just above top edge, off screen
+        this.enemies.length = 0;
 
-        const boss = new PinkTriangleEnemyMk2(startX, startY, this.ctx, this.playerShip, this.enemyBullets);
+        const canvasWidth = this.ctx.canvas.width;
+        const startX = canvasWidth / 2 - 15;
+        const startY = -40;
+
+        const boss = new PinkTriangleEnemyMk2(startX, startY, this.ctx, this.playerShip, this.enemyBullets, 100);
         this.enemies.push(boss);
     }
+
+    StartLevel10() {
+        const yellowEnemy = new YellowBoxEnemyMk1(
+            -50, // x center coordinate
+            100, // y center coordinate
+            this.ctx,
+            this.playerShip,
+            this.enemyBullets
+        );
+
+        this.enemies.length = 0;
+        this.enemies.push(yellowEnemy);
+    }
+    
+    StartLevel11() {
+        const canvasWidth = this.ctx.canvas.width;
+        const startX = canvasWidth / 2 - 15; // center each triangle (30px width assumed)
+
+        this.enemies.length = 0; // clear previous enemies
+
+        for (let i = 0; i < 3; i++) {
+            const yOffset = -60 * (i + 1); // position enemies above screen, spaced vertically
+            const triangle = new PinkTriangleEnemyMk2(
+                startX,
+                yOffset,
+                this.ctx,
+                this.playerShip,
+                this.enemyBullets,
+                200
+            );
+            this.enemies.push(triangle);
+        }
+
+    }
+
 
 }

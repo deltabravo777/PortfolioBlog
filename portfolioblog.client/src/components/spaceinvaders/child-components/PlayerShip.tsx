@@ -1,5 +1,5 @@
-﻿import { Drawable } from './Drawable';
-import { Bullet } from './Bullet';
+﻿import { Bullet } from './bullets/Bullet';
+import { Drawable } from './Drawable';
 
 export class PlayerShip extends Drawable {
     keyPressed: { [key: string]: boolean } = {};

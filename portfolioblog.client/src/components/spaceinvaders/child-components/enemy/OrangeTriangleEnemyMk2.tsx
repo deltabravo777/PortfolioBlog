@@ -1,6 +1,8 @@
+import { EnemyBullet } from '../bullets/EnemyBullet';
+import { EnemyBulletMk1 } from '../bullets/EnemyBulletMk1';
 import { Enemy } from './Enemy';
-import { EnemyBullet } from '../EnemyBullet';
-import { EnemyBulletMk1 } from '../EnemyBulletMk1';
+//import { EnemyBullet } from '../EnemyBullet';
+//import { EnemyBulletMk1 } from '../EnemyBulletMk1';
 
 export class OrangeTriangleEnemyMk2 extends Enemy {
     static waveGroups: Record<number, OrangeTriangleEnemyMk2[]> = {};

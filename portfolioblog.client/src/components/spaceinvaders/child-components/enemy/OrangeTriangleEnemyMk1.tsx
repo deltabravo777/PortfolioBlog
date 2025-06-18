@@ -1,6 +1,6 @@
 import { Enemy } from './Enemy';
-import { EnemyBullet } from '../EnemyBullet';
-import { EnemyBulletMk1 } from '../EnemyBulletMk1';
+import { EnemyBullet } from '../bullets/EnemyBullet';
+import { EnemyBulletMk1 } from '../bullets/EnemyBulletMk1';
 
 export class OrangeTriangleEnemyMk1 extends Enemy {
     static uniformDirection: number = 1;

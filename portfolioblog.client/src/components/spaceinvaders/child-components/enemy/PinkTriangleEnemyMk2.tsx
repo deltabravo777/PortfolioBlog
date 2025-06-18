@@ -1,4 +1,4 @@
-import { EnemyBulletMk1 } from '../EnemyBulletMk1';
+import { EnemyBulletMk1 } from '../bullets/EnemyBulletMk1';
 import { Enemy } from './Enemy';
 import { PlayerShip } from '../PlayerShip';  // Assuming you import PlayerShip for tracking
 
@@ -13,7 +13,7 @@ export class PinkTriangleEnemyMk2 extends Enemy {
     aligned: boolean = false;
     burstShotsRemaining: number = 0;
     burstCooldown: number = 0;
-
+    floatDistance: number;
     shootingCooldown: number = 0; // new cooldown counter
 
     constructor(
@@ -21,11 +21,13 @@ export class PinkTriangleEnemyMk2 extends Enemy {
         y: number,
         ctx: CanvasRenderingContext2D,
         playerShip: PlayerShip,
-        enemyBullets: EnemyBulletMk1[]
+        enemyBullets: EnemyBulletMk1[],
+        floatDistance: number
     ) {
         super(x, y, ctx, 100, 1);
         this.enemyBullets = enemyBullets;
         this.playerShip = playerShip;
+        this.floatDistance = floatDistance;
     }
 
     move() {
@@ -33,7 +35,7 @@ export class PinkTriangleEnemyMk2 extends Enemy {
             this.shootingCooldown--;
         }
 
-        if (this.age < 100) {
+        if (this.age < this.floatDistance) {
             // Float down into screen first 100 frames (~100px)
             this.y += this.moveSpeed;
         } else {
